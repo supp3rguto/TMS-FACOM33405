@@ -1,0 +1,6 @@
+Email,Nome,Valido
+teste@email.com,Joao da Silva,true
+usuario.com,Maria Santos,false
+admin@empresa.com.br,Carlos,true
+certo@gmail.com,Carlos123,false
+@semdominio.com,Ana,false
