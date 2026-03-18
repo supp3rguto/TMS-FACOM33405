@@ -6,8 +6,6 @@
 
 **Disciplina:** Testes e Manutenção de Software (FACOM33405) - 2025.2
 
-> 🎥 **VÍDEO DE APRESENTAÇÃO DO PORTFÓLIO:** > [Clique aqui para assistir à apresentação das atividades no Google Drive](https://drive.google.com/file/d/1MJxdOI1bnufXPxu9xqTV1J3q_DhgQTwt/view)
-
 Este repositório contém o portfólio completo de atividades teóricas e práticas desenvolvidas ao longo da disciplina, abrangendo controle de versão (Git), automação de testes (JUnit, Mockito), TDD e Refatoração.
 
 ---
